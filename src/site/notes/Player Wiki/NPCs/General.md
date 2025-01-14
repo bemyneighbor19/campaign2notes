@@ -9,6 +9,8 @@ Employer of Olgo Stonesworn (bodyguard)
 Owner of Cromwen Zoological Industries and works in animal trading
 Nobility within Baldur's Gate
 
+We heard from Arin that Rulf might have been the person who got Sten "taken care of." Rulf seems to be looking to push for exotic animal trading from Port Nyanzaru and to broker a deal with Ifan, the Merchant Prince that controls such things.
+
 # Sten Morkez
 
 Chultan "expert" from Candlekeep
