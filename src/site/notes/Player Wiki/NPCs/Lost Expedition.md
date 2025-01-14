@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-wiki/np-cs/lost-expedition/"}
 ---
 
+This expedition was led by Ootumi in search for something powerful or unique at the location described by the map. Weshtek returned claiming they were attacked when they reached what they thought was the final destination. Weshtek was seriously injured and is still recovering by the time the group arrives in Port Nyanzaru.
+
 # Ootumi
 
 Half-Orc Explorer famous for discovering the Golden Fist, an ancient glove giving its wearer reality altering power; the Mask of the Emerald Dragon, a mask that gives the wearer the powers of an Emerald Dragon; and the Scepter of the Great Old One, a staff that gives its user an ambiguous dark gift. All these adventures were archived as very popular novels.
