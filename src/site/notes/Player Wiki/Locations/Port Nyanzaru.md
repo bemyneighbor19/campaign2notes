@@ -2,6 +2,10 @@
 {"dg-publish":true,"permalink":"/player-wiki/locations/port-nyanzaru/"}
 ---
 
+_Port Nyanzaru is a tropical city under the blazing sun. The familiar sounds of a harbor — creaking ropes, slapping waves, heavy barrels rolling across cobblestones — mingle with voices shouting and cursing in an unfamiliar language filled with clicks, inhalations, and singsongy words that make it sound almost musical. The aroma of unfamiliar spices and tropical fruit mixes with the wharfside smells of fish, tar, and canvas._
+
+_Beyond all that, Port Nyanzaru is an explosion of color. Buildings are painted in bright shades of blue, green, orange, and salmon pink, or their walls are adorned with murals portraying giant reptiles and mythical heroes. Every building sports baskets and clay urns of colorful flowers or is draped in leafy, flowering vines. Minstrels in bright clothing adorned with feathers and shells perform on street corners. Multicolored pennants and sun awnings flutter atop the city walls. A crowd of children dressed in feathered hats and capes races past you, squealing in delighted terror as a street performer costumed as a big-toothed lizard stomps and roars behind them. The whole city seems to be bustling, sweating, laughing, swearing, and singing._
+
 # Port Map
 
 6 Grand Soup (Souk)
