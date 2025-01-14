@@ -9,7 +9,6 @@ Her first mate, the halfling **Saydin**, is the spitting image of ruggedness, ju
 
 The cook of the ship, **Teron**, is actually a Chultan who they met in Port Nyanzaru. His skills in the kitchen are unmatched by any other cook you have met… on a ship… that takes a month long journey to and from a city on a untamed island.  
 
-
 Finally, the quartermaster and weapons expert on the ship, **Up** and **Up**, rock gnome artificer twins who left their mountain dwelling behind to enjoy the open seas. Up is a master of his craft; he tinkers with gadgets, tracks the supplies and maintains the hull of the ship. Up blows things up, preferably enemies.
 
 **Crew (EXTRA)**:
