@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/player-wiki/np-cs/general/","pinned":true,"dgShowToc":true}
 ---
 
+Some of the people we have met along the way that don't fall into groups just yet.
+
 # Rulf Cromwen
 
 Father of Rosa Cromwen
