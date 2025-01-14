@@ -1,5 +1,7 @@
-body .wide-page {
-    --file-line-width: 80%; /* Adjust the value as needed */ 
+body {
+    max-width: 100%;
+    width: 80%;
+    padding-left: 10;/* Adjust the value as needed */  /* Adjust the value as needed */ 
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
