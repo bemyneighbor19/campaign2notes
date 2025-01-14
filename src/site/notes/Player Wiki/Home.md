@@ -5,11 +5,11 @@
 *This is a collection of notes prepared by the group of Azuria, Nico, Ronnie, Liev'thel and .*
 
 
-### Notes
-[[Player Wiki/Notes/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
-[[Player Wiki/Notes/The Ruby City\|The Ruby City]]
-[[Player Wiki/Notes/Unchained Dino Race\|Unchained Dino Race]]
-[[Player Wiki/Notes/Mezoar's Kidnapping\|Mezoar's Kidnapping]]
+### Events
+[[Player Wiki/Events/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
+[[Player Wiki/Events/The Ruby City\|The Ruby City]]
+[[Player Wiki/Events/Unchained Dino Race\|Unchained Dino Race]]
+[[Player Wiki/Events/Mezoar's Kidnapping\|Mezoar's Kidnapping]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
