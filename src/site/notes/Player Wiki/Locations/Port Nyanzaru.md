@@ -2,6 +2,21 @@
 {"dg-publish":true,"permalink":"/player-wiki/locations/port-nyanzaru/"}
 ---
 
+# Port Map
+
+6 Grand Soup (Souk)
+18 Red Bazaar
+18a The Thundering Lizard
+18b Kaya's House of Repose
+20 Grand Coliseum
+22 Public Bathhouse
+25 Dinosaur Pens
+W Weshtek's Hosue
+
+
+![PortN_DM.jpg|1000](/img/user/Maps/PortN_DM.jpg)
+
+
 # The Thundering Lizard
 
 A rowdy inn for adventurers where we have rooms courtesy of the Seafoamie family. The Isrit family runs this place: Emeka (husband), Esther (wife), Chiseldi (eldest daughter),  
