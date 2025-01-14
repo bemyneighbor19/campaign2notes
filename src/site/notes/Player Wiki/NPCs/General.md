@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/general/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/general/","pinned":true}
 ---
 
 # Rulf Cromwen
@@ -25,6 +25,14 @@ Works in the bathhouse
 # Winifred Mistspitter
 
 Friend of Liev'thel's who portrays Senna in the Dark Dragon's Descent that is put on by Kaya's House of Repose
+
+# Vazhul
+
+Arin's bookie
+Asked Arin to keep an eye on Rulf in exchange for his debt forgiveness
+Recruited Nico to ride Jungle Princess
+Works for Ifan
+Protecting Arin within Port Nyanzaru
 
 # Mezoar
 
