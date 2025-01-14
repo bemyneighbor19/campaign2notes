@@ -1,0 +1,20 @@
+---
+{"dg-publish":true,"permalink":"/player-wiki/locations/port-nyanzaru/"}
+---
+
+# The Thundering Lizard
+
+A rowdy inn for adventurers where we have rooms courtesy of the Seafoamie family. The Isrit family runs this place: Emeka (husband), Esther (wife), Chiseldi (eldest daughter),  
+
+![1845825-The_Thundering_Lizard_PlayersHighres.jpg|600](/img/user/1845825-The_Thundering_Lizard_PlayersHighres.jpg)
+
+![1845825-The_Thundering_Lizard_menu2.png|600](/img/user/1845825-The_Thundering_Lizard_menu2.png)
+# Bathhouse
+
+This is where you can find a nice bath or a steamy sauna. You can also find Kriistbodrem here as well.
+
+# Kaya's House of Repose
+
+You can catch dinner and a show here. They put on Dark Dragon's Descent every night from 8pm to 11pm starring Winifred Mistspitter as Senna. 
+
+We haven't met the owner or workers of Kaya's yet.

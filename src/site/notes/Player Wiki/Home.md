@@ -18,3 +18,7 @@
 [[Player Wiki/NPCs/The Primal Grove\|The Primal Grove]]
 [[Player Wiki/NPCs/The Vicious Fortune\|The Vicious Fortune]]
 
+### Places
+[[Player Wiki/Locations/Port Nyanzaru\|Port Nyanzaru]]
+
+

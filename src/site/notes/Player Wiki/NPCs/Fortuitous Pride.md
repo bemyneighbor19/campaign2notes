@@ -12,12 +12,14 @@ Eaton is a rival explorer to [[Player Wiki/NPCs/Lost Expedition#Ootumi\|Ootumi]]
 Eaton and the rest of Fortuitous Pride are going after the same thing Ootumi was.
 Their home base in Chult is Fort Beluarian.
 
+Note: *His Majesty* is a pompous ass who can't even get our names right half the time
+
 # Oz
 
 ![Oz.jpg|400](/img/user/Portraits/Oz.jpg)
-Oz is a Chultan sorcerer that is part of Fortuitous Pride.
+Oz is a Chultan sorcerer that is part of Fortuitous Pride. She seems to be the most level headed of the group.
 
 # Duldri Bearleaf
 
 ![Duldri.jpg|400](/img/user/Portraits/Duldri.jpg)
-Duldri is a human paladin of Mystra that is part of Fortuitous Pride
+Duldri is a human paladin of Mystra that is part of Fortuitous Pride. He is mysterious and a man of few words. We can't always recall what he looks like other than the stripe in his hair.
