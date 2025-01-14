@@ -21,9 +21,9 @@ W Weshtek's Hosue
 
 A rowdy inn for adventurers where we have rooms courtesy of the Seafoamie family. The Isrit family runs this place: Emeka (husband), Esther (wife), Chiseldi (eldest daughter),  
 
-![1845825-The_Thundering_Lizard_PlayersHighres.jpg|600](/img/user/1845825-The_Thundering_Lizard_PlayersHighres.jpg)
+![1845825-The_Thundering_Lizard_PlayersHighres.jpg|600](/img/user/Maps/1845825-The_Thundering_Lizard_PlayersHighres.jpg)
 
-![1845825-The_Thundering_Lizard_menu2.png|600](/img/user/1845825-The_Thundering_Lizard_menu2.png)
+![1845825-The_Thundering_Lizard_menu2.png|600](/img/user/Pasted%20Images/1845825-The_Thundering_Lizard_menu2.png)
 # Bathhouse
 
 This is where you can find a nice bath or a steamy sauna. You can also find Kriistbodrem here as well.

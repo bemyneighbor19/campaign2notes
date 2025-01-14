@@ -17,8 +17,10 @@
 [[Player Wiki/NPCs/Lost Expedition\|Lost Expedition]]
 [[Player Wiki/NPCs/The Primal Grove\|The Primal Grove]]
 [[Player Wiki/NPCs/The Vicious Fortune\|The Vicious Fortune]]
+[[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]]
 
 ### Places
 [[Player Wiki/Locations/Port Nyanzaru\|Port Nyanzaru]]
+[[Player Wiki/Locations/Fort Beluarian\|Fort Beluarian]]
 
 
