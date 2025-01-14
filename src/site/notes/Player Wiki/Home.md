@@ -6,9 +6,9 @@ This is a collection of notes prepared by the group of Azuria, Nico, Ronnie, Lie
 
 
 ### Notes
-[[Player Wiki/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
-[[Player Wiki/The Ruby City\|The Ruby City]]
-[[Player Wiki/Unchained Dino Race\|Unchained Dino Race]]
+[[Player Wiki/Notes/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
+[[Player Wiki/Notes/The Ruby City\|The Ruby City]]
+[[Player Wiki/Notes/Unchained Dino Race\|Unchained Dino Race]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
