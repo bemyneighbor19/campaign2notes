@@ -5,7 +5,7 @@
 # Rulf Cromwen
 
 Father of Rosa Cromwen
-Employer of Olgo Stonesworn
+Employer of Olgo Stonesworn (bodyguard)
 Owner of Cromwen Zoological Industries and works in animal trading
 Nobility within Baldur's Gate
 
