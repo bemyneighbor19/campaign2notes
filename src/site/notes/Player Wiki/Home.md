@@ -9,7 +9,7 @@
 [[Player Wiki/Events/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
 [[Player Wiki/Events/The Ruby City\|The Ruby City]]
 [[Player Wiki/Events/Unchained Dino Race\|Unchained Dino Race]]
-[[Player Wiki/Events/Mezoar's Kidnapping\|Mezoar's Kidnapping]]
+[[Player Wiki/Events/Map Chase and Mezoar's Kidnapping\|Map Chase and Mezoar's Kidnapping]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
