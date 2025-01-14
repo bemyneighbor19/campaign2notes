@@ -14,7 +14,7 @@
 W Weshtek's Hosue
 
 
-![PortN_DM.jpg|1000](/img/user/Maps/PortN_DM.jpg)
+![PortN_DM.jpg](/img/user/Maps/PortN_DM.jpg)
 
 
 # The Thundering Lizard
