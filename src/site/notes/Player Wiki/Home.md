@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/player-wiki/home/","pinned":true,"tags":["gardenEntry"]}
 ---
 
-*This is a collection of notes prepared by the group of Azuria, Nico, Ronnie, Liev'thel and Altresse.*
+*This is a collection of notes prepared by the group of Azuria, Nico, Ronnie, Liev'thel and .*
 
 
 ### Notes
