@@ -15,7 +15,7 @@ Their home base in Chult is Fort Beluarian.
 ![Oz.jpg|400](/img/user/Portraits/Oz.jpg)
 Oz is a Chultan sorcerer that is part of Fortuitous Pride.
 
-# Duldri
+# Duldri Bearleaf
 
 ![Duldri.jpg|400](/img/user/Portraits/Duldri.jpg)
 Duldri is a human paladin of Mystra that is part of Fortuitous Pride
