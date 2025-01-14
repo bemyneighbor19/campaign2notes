@@ -50,7 +50,7 @@ Was insulted by Liev and Nico, which caused a fight
 # Vacien Erascar
 
 Grand Duke in Baldur's Gate
-The head of the Flaming Fist battalion at Fort Beluarian
+Superior of Liara of the Flaming Fist battalion at Fort Beluarian
 
 # Mysterious Mage
 
