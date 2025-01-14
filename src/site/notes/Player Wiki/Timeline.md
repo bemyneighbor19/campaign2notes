@@ -17,7 +17,7 @@
 **1528 DR** – Ootumi’s exploration goes missing. Weshtek returns towards the end of Flamerule (Month 7/12)  
 
 
-The adventuring party leaves Velen at the end of summer, at the beginning of Elient (Month 9/12) of 1528 DR.
+The adventuring party leaves Velen at the end of summer and arrives in Port Nyanzaru on the first of Elient (Month 9/12) of 1528 DR.
 
 
 ## Calendar
