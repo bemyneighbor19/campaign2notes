@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/general/","pinned":true}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/general/","pinned":true,"dgShowToc":true}
 ---
 
 # Rulf Cromwen
