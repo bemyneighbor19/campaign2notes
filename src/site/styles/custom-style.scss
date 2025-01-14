@@ -1,4 +1,9 @@
 body {
+    overflow-x: hidden;
+    --note-icon-fallback: url(/img/blank.svg);
+    --graph-main: var(--text-accent);
+    --graph-muted: var(--text-muted);
+    
     .content {
 
     max-width: 120ch; /* Adjust the value as needed */ 
