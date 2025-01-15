@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/locations/port-nyanzaru/"}
+{"dg-publish":true,"permalink":"/player-wiki/locations/port-nyanzaru/","noteIcon":""}
 ---
 
 _Port Nyanzaru is a tropical city under the blazing sun. The familiar sounds of a harbor — creaking ropes, slapping waves, heavy barrels rolling across cobblestones — mingle with voices shouting and cursing in an unfamiliar language filled with clicks, inhalations, and singsongy words that make it sound almost musical. The aroma of unfamiliar spices and tropical fruit mixes with the wharfside smells of fish, tar, and canvas._
@@ -37,6 +37,19 @@ This is where you can find a nice bath or a steamy sauna. You can also find Krii
 You can catch dinner and a show here. They put on Dark Dragon's Descent every night from 8pm to 11pm starring Winifred Mistspitter as Senna. 
 
 We haven't met the owner or workers of Kaya's yet.
+
+# Hunkin' Handpies
+
+Best place in down to get fruit or meat filled hand pies
+
+| Amount | Price |
+| ------ | ----- |
+| 1      | 5 cp  |
+| 6      | 3 sp  |
+| 12     | 5 sp  |
+# Zhanthi Bahama
+
+A place to get bright clothing. Sponsoring Nico, so he gets 50% off.
 
 # Purchasing Items
 

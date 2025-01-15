@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/events/the-ruby-city/"}
+{"dg-publish":true,"permalink":"/player-wiki/events/the-ruby-city/","noteIcon":""}
 ---
 
 According to Sten, there is an ancient city within the jungles of Chult. His research points to the name Astua Sangdamas, or the Ruby City. He also suspects that there was a deity that blessed the city with great wealth named Aztoz. The map that guided the expedition of Ootumi seemed to lead to the Redoutgroffe or Valley of Dread, where the city is theorized to be located.

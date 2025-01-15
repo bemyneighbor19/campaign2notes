@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/merchant-princes/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/merchant-princes/","noteIcon":""}
 ---
 
 #### Ekene-Afa

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/locations/fort-beluarian/"}
+{"dg-publish":true,"permalink":"/player-wiki/locations/fort-beluarian/","noteIcon":""}
 ---
 
 _The flag of Baldur’s Gate flies over this wooden stockade. The whole structure sits atop a 10-foot hillock, the sides of which are shaved vertically to make them steep and difficult to climb. The fort’s main gate faces west. On the east side of the stockade, a tall keep holds a commanding view of the surrounding wilderness._

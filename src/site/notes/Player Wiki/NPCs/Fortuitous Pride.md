@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/fortuitous-pride/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/fortuitous-pride/","noteIcon":""}
 ---
 
 An archaeological/treasure hunting team lead by Eaton Alistair. It is truly an *honor* to be accepted into their ranks.

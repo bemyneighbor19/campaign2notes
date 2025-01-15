@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/events/unchained-dino-race/"}
+{"dg-publish":true,"permalink":"/player-wiki/events/unchained-dino-race/","noteIcon":""}
 ---
 
-Nico is racing on the Jungle Princess, a green dyed deinonychus in an unchained dinosaur race that goes throughout the city. He is being sponsored by Zhanthi Bahama. 
+Nico is racing on the Jungle Princess, a green dyed deinonychus in an unchained dinosaur race that goes throughout the city. He is being sponsored by Zhanthi Bahama.
+
+Race day is on the 7th of Elient
 
 71 Gold bet placed on Nico/Jungle Princess
 

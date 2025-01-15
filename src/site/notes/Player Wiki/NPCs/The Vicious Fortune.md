@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/the-vicious-fortune/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/the-vicious-fortune/","noteIcon":""}
 ---
 
 **Crew (MAIN):**  

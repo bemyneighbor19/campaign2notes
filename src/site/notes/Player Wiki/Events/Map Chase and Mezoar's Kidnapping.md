@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/events/map-chase-and-mezoar-s-kidnapping/"}
+{"dg-publish":true,"permalink":"/player-wiki/events/map-chase-and-mezoar-s-kidnapping/","noteIcon":""}
 ---
 
 When we first went to visit Weshtek, we were surprised by a [[Player Wiki/NPCs/General#Mysterious Mage\|person]] bursting out of Weshtek's house having stolen a map. We chased him down, and Azuria tackled him to the ground to recover the map. He said he had to go and cast dimension door to escape. We went back and talked to Weshtek to hear his story and convinced him to let Mezoar guide us to the map's location (See [[Player Wiki/Events/The Ruby City\|The Ruby City]]).

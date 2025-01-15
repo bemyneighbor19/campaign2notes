@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/events/the-vicious-murder-on-the-vicious-fortune/"}
+{"dg-publish":true,"permalink":"/player-wiki/events/the-vicious-murder-on-the-vicious-fortune/","noteIcon":""}
 ---
 
 The murder of Sten Morkez happened during the night of the sahuagin attack aboard the Vicious Fortune. After some sleuthing, it was narrowed down to one suspect, Arin Hardcloak. After confirming his guilt with a Speak with Dead spell cast on the deceased Sten and two Zone of Truth spell provided by Duldri Bearleaf, Arin was placed in jail by Almira. 

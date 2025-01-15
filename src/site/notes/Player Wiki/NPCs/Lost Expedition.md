@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/lost-expedition/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/lost-expedition/","noteIcon":""}
 ---
 
 This expedition was led by Ootumi in search for something powerful or unique at the location described by the map. Weshtek returned claiming they were attacked when they reached what they thought was the final destination. Weshtek was seriously injured and is still recovering by the time the group arrives in Port Nyanzaru.

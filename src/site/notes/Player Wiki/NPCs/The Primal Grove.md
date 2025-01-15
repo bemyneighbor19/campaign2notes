@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/np-cs/the-primal-grove/"}
+{"dg-publish":true,"permalink":"/player-wiki/np-cs/the-primal-grove/","noteIcon":""}
 ---
 
 The Primal Grove is the a tribe of druids within Chult that Nico was seeking. 

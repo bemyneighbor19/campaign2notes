@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/timeline/"}
+{"dg-publish":true,"permalink":"/player-wiki/timeline/","noteIcon":""}
 ---
 
 **1486 DR** - The Elturel Crater is formed, and quickly becomes Elturel Crater Lake.

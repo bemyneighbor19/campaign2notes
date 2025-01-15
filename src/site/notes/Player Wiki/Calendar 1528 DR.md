@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/player-wiki/calendar-1528-dr/"}
+{"dg-publish":true,"permalink":"/player-wiki/calendar-1528-dr/","noteIcon":""}
 ---
 
 ##### Flamerule (Summertide) (7/12)
