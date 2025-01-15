@@ -49,3 +49,12 @@ See [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]] for who to buy from.
 | Canoe                    | 50gp or 2sp/day  | Moves at 1.5mph |
 | Catboat (small sailboat) | 125gp or 5sp/day | Moves at 2mph   |
 | Sailboat                 | 10gp/day         | Moves at 10mph  |
+
+## Misc
+
+| Item                      | Cost | Note                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Insect Repellent, incense | 1 sp | When lit, the block of incense burns for 8 hours and repels insects within a 20 foot radius                                                                                                                                                                                                                                          |
+| Insect Repellent, salve   | 1 gp | A vial of salve contains 20 applications of odorless grease. One application protects its wearer against normal insects for 24 hours. The salve is waterproof so it doesn’t wash off in rain                                                                                                                                         |
+| Rain Catcher              | 1 gp | A rain catcher is a simple contraption consisting of a 5-foot-square leather tarp and a wooden frame with legs. When the tarp is stretched across the wooden frame, it forms a basin that can catch 2 gallons of drinking water per inch of rainfall and hold up to 8 gallons. The tarp and wooden frame fold up for easy transport. |
+| Sunburn Cream             | 5 sp | A cream that alleviates the pain associated with sunburn. It is made and sold by Kriistbodrem in the Public Bathhouse.                                                                                                                                                                                                               |
