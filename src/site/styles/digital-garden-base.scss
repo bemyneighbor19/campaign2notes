@@ -306,7 +306,7 @@ ul.task-list {
     z-index: 10;
     padding: 10px;
     top: 0px;
-    left: .5em;
+    left: 0;
     position: fixed;
     height: 100%;
     background-color: var(--background-secondary);
@@ -702,6 +702,7 @@ body.backlinks-note-icon .backlink[data-note-icon]::before {
     display: inline-block;
     width: 0.9em;
     height: 1em;
+    right: .5em;
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
