@@ -15,7 +15,6 @@ Nico is racing on the Jungle Princess, a green dyed deinonychus in an unchained 
 
 ## Odds Table
 
-
 | Odds | Payout  | Racer                                                  | Notes                                                                                                                                   |
 | ---- | ------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
 | 3:1  | Wager/3 | Fiyaki on Banana Candy, the hadrosaurus                | Favorite, has won the last two races, Chultan                                                                                           |

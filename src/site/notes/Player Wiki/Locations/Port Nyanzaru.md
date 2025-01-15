@@ -37,3 +37,15 @@ This is where you can find a nice bath or a steamy sauna. You can also find Krii
 You can catch dinner and a show here. They put on Dark Dragon's Descent every night from 8pm to 11pm starring Winifred Mistspitter as Senna. 
 
 We haven't met the owner or workers of Kaya's yet.
+
+# Purchasing Items
+
+See [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]] for who to buy from.
+
+## Vehicles
+
+| Item                     | Cost             | Speed           |
+| ------------------------ | ---------------- | --------------- |
+| Canoe                    | 50gp or 2sp/day  | Moves at 1.5mph |
+| Catboat (small sailboat) | 125gp or 5sp/day | Moves at 2mph   |
+| Sailboat                 | 10gp/day         | Moves at 10mph  |
