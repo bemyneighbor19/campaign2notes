@@ -23,4 +23,6 @@
 [[Player Wiki/Locations/Port Nyanzaru\|Port Nyanzaru]]
 [[Player Wiki/Locations/Fort Beluarian\|Fort Beluarian]]
 
+### Collections
+[[Player Wiki/Collections/Letters from Eaton\|Letters from Eaton]]
 
