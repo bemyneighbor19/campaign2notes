@@ -20,7 +20,7 @@
 [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]]
 
 ### Places
-[[Player Wiki/Locations/Port Nyanzaru\|Port Nyanzaru]]
+[[Player Wiki/Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
 [[Player Wiki/Locations/Fort Beluarian\|Fort Beluarian]]
 
 ### Collections
