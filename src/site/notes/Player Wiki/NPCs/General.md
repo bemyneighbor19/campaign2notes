@@ -63,3 +63,6 @@ Superior of Liara of the Flaming Fist battalion at Fort Beluarian
 ![MysteryMage.jpg|300](/img/user/Portraits/MysteryMage.jpg)
 Rogue-like mage with forgettable features who tried to steal the map from Weshtek and eventually kidnapped Mezoar
 Casted sleep, blink, and dimension door
+
+In a confrontation with Z, he said "I don't want anyone else to get hurt. You are getting too close. Just forget about the Ruby City."
+Seems to be magically able to make you forget his face as soon as you look away.
