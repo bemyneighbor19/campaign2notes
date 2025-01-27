@@ -25,4 +25,6 @@
 
 ### Collections
 [[Player Wiki/Collections/Letters from Eaton\|Letters from Eaton]]
+[[Player Wiki/Collections/Map of Chult\|Map of Chult]]
+
 
