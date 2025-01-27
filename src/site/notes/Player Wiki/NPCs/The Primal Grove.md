@@ -10,6 +10,12 @@ They really like to use ptiny pterodactyls to spy and occasionally bombard the f
 
 If we want to take the grove up on their offer for a guide, we can meet them at the location on the shore of the Bay of Chult that Golin pointed out.
 
+# Niar Ankylo
+
+IMAGE TBA
+
+The Earthen Genasi guide taking you to the Valley of Dread
+
 # Bryfina Pteriat
 
 ![Bryna.jpeg|400](/img/user/Portraits/Bryna.jpeg)
