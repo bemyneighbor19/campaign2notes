@@ -12,7 +12,7 @@ If we want to take the grove up on their offer for a guide, we can meet them at 
 
 # Niar Ankylo
 
-IMAGE TBA
+![Niar.jpg|400](/img/user/Portraits/Niar.jpg)
 
 The Earthen Genasi guide taking you to the Valley of Dread
 
