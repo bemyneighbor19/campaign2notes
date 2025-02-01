@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/player-wiki/events/wild-green-yonder/","noteIcon":""}
 ---
 
+
 There have been three encounters with undead thus far. 
 	Once at the Dinosaur Ranch where we met Pingo and Dally, and our new friend Sunset (Sunny) the ankylosaurus.
 	Once when Z disturbed a T. Rex Zombie

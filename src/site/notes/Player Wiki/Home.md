@@ -10,6 +10,7 @@
 [[Player Wiki/Events/The Ruby City\|The Ruby City]]
 [[Player Wiki/Events/Unchained Dino Race\|Unchained Dino Race]]
 [[Player Wiki/Events/Map Chase and Mezoar's Kidnapping\|Map Chase and Mezoar's Kidnapping]]
+[[Player Wiki/Events/Wild Green Yonder\|Wild Green Yonder]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
