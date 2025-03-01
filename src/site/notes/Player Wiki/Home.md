@@ -28,5 +28,6 @@
 [[Player Wiki/Collections/Letters from Eaton\|Letters from Eaton]]
 [[Player Wiki/Collections/Map of Chult\|Map of Chult]]
 [[Player Wiki/Collections/Chult Fauna and Flora\|Chult Fauna and Flora]]
+[[Player Wiki/Collections/The Ruby Grove\|The Ruby Grove]]
 
 
