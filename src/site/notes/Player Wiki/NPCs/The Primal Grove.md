@@ -27,3 +27,13 @@ Leader of the Primal Grove near the Fort Beluarian site
 ![Golin.jpeg|400](/img/user/Portraits/Golin.jpeg)
 
 Druid from the Primal Grove
+
+# Misc
+Kwalu Stegoso (M)
+	Mentor and trainer for aspiring druids, hosted the First Flight Ceremony
+Okun Orycto (M)
+	Lead Stone Mason Druid, seemingly a vampire corrupted by the rubies he discovered
+Pavo Diplod (M)
+	Herbalist Archdruid (PGPG)
+Zenzea Brontro (F)
+	Animal Archdruid
