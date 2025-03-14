@@ -11,6 +11,7 @@
 [[Player Wiki/Events/Unchained Dino Race\|Unchained Dino Race]]
 [[Player Wiki/Events/Map Chase and Mezoar's Kidnapping\|Map Chase and Mezoar's Kidnapping]]
 [[Player Wiki/Events/Wild Green Yonder\|Wild Green Yonder]]
+[[Player Wiki/Events/A Broken Heart (of Ubtao)\|A Broken Heart (of Ubtao)]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
