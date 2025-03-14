@@ -11,3 +11,7 @@ Suspicion is currently on Fortuitous Pride. The event lined up with Fortuitous P
 Azuria timed herself running to Weshtek's house using her full speed and her cloud abilities. She discovered that it took less than a minute (40s) to get to and from Weshtek's place. This included jumping up walls on both legs of the run.
 
 According to Jobal's (the Merchant Prince in charge of guides) office, Shago is the guide for Fortuitous Pride.
+
+The mysterious mage was caught observing Z and Ronnie outside the office. He fled quickly after Ronnie clocked him, but Z was able to catch up. He escaped her grasp again, but not before saying "you're too close. I don't want anybody else to get hurt. Don't go to the ruby city. Just let it be."
+
+We haven't seen him since.
