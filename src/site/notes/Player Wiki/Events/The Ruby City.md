@@ -16,3 +16,6 @@ He will xxxxxxxxxxx with ancient ire 
 Or bless for the price of xxxxxxxxxxxxxx 
 
 Note: the "x" represent unreadable parts
+
+This is what we seem to remember
+![Ruby City Map.png](/img/user/Maps/Ruby%20City%20Map.png)
