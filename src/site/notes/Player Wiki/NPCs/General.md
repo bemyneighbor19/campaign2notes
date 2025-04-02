@@ -60,7 +60,7 @@ Superior of Liara of the Flaming Fist battalion at Fort Beluarian
 
 # Mysterious Mage
 
-![MysteryMage.jpg|300](/img/user/Portraits/MysteryMage.jpg)
+![MysteryMage.jpg|300](/img/user/z_Assets/Portraits/MysteryMage.jpg)
 Rogue-like mage with forgettable features who tried to steal the map from Weshtek and eventually kidnapped Mezoar
 Casted sleep, blink, and dimension door
 

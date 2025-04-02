@@ -12,19 +12,19 @@ If we want to take the grove up on their offer for a guide, we can meet them at 
 
 # Niar Ankylo
 
-![Niar.jpg|400](/img/user/Portraits/Niar.jpg)
+![Niar.jpg|400](/img/user/z_Assets/Portraits/Niar.jpg)
 
 The Earthen Genasi guide taking you to the Valley of Dread, but with a stop at the Heart of Ubtao first.
 
 # Bryfina Pteriat
 
-![Bryna.jpeg|400](/img/user/Portraits/Bryna.jpeg)
+![Bryfina.jpeg|400](/img/user/z_Assets/Portraits/Bryfina.jpeg)
 
 Leader of the Primal Grove near the Fort Beluarian site
 
 # Golin Velotor
 
-![Golin.jpeg|400](/img/user/Portraits/Golin.jpeg)
+![Golin.jpeg|400](/img/user/z_Assets/Portraits/Golin.jpeg)
 
 Druid from the Primal Grove
 

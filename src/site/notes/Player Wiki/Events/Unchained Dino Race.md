@@ -34,4 +34,4 @@ Race day is on the 7th of Elient
 
 
 # Race Track:
-![RaceMap.png](/img/user/Pasted%20Images/RaceMap.png)
+![RaceMap.png](/img/user/z_Assets/Pasted%20Images/RaceMap.png)
