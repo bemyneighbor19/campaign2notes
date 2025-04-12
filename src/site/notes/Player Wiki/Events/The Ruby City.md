@@ -39,3 +39,5 @@ Right now, we are trying to move quickly so that Okhun doesn't show up and blow 
 Our current theory is that we are in some sort of demiplane with no exit. According to the stories we were told, the maze's exits were sealed when Ubtao left Chult. We initially thought it was in reference to the afterlife, but it seems to have been a double entendre. The exits of the city were sealed as well, although Nidaasi did mention with the new power of Okhun joining forces with the Ruby City, that there were "big plans" for the future.
 
 With all this talk of mazes, Nico discovered that the city used to have a maze, but the structure of it was torn down long ago, and they made a shortcut to the large ruby ziggurat that looms over the city. We tried to enlist the help of Zedd to find the maze, but he instead found some popcorn.... from somewhere..... Luckily Nico thought to use his ring as a map to find the true maze. Maybe it will lead us to an exit, or some answers.
+
+![Ubtao Maze.png](/img/user/z_Assets/Pasted%20Images/Ubtao%20Maze.png)
