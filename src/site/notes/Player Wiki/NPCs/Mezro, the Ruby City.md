@@ -9,3 +9,4 @@ Nidaasi is the high priestess that welcomed us into the Ruby City. She is a high
 # Itakulo
 
 Nidaasi claims the Itakulo is a direct conduit to Aztoz and is the prophet. 
+![Itakulo.jpg|400x400](/img/user/z_Assets/Portraits/Itakulo.jpg)
