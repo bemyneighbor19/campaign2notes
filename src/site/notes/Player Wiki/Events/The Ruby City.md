@@ -41,3 +41,26 @@ Our current theory is that we are in some sort of demiplane with no exit. Accord
 With all this talk of mazes, Nico discovered that the city used to have a maze, but the structure of it was torn down long ago, and they made a shortcut to the large ruby ziggurat that looms over the city. We tried to enlist the help of Zedd to find the maze, but he instead found some popcorn.... from somewhere..... Luckily Nico thought to use his ring as a map to find the true maze. Maybe it will lead us to an exit, or some answers.
 
 ![Ubtao Maze.png](/img/user/z_Assets/Pasted%20Images/Ubtao%20Maze.png)
+
+## Update: Elient 26th 1528 - Evening
+
+After following the path of the maze we took on 4 challenges of Ubtao
+
+An invisible fog maze 
+*"He made the rains constant and the fog obscure the land. The maze may seem obscured at times, but let your determination be your guide. Be thorough. Each dead end is an experience to learn from."*
+
+A agility vine maze
+*"He grew the jungle thick and ever changing. The maze is not as straight forward as it may seem. Adapt in life, and you will find the path to move you forward."*
+
+A word puzzle challenge 
+*"He raised the mountains and filled them with liquid fire. The maze may burn you. It may knock you down. Hold true to your values. They will give you the courage to push through the fire to your goal."*
+
+And finally a battle with an echo of himself
+*"He filled the land with gargantuan beasts. Many will try to pull you from your path. Do not stray from the maze. Fight to hold your ground."*
+
+At the end of each of these trials, there were empty pedestals that seemed to possess pieces of the Ruby dagger we have seen. The final trial revealed a long staff that we gave to Azuria, and our current theory is that the staff is actually the pole of an ancient weapon of Ubtao.
+
+The staff's pedestal read *"The champion that earned Ubtao's favor was given a spear, the very one that Ubtao himself wielded. With it, the champion would be a conduit for Ubtao's power and an eternal protector of Chult.*"
+
+When we returned "home" to rest, we were greeted by Itakulo, the prophet of Aztoz and leader of the Ruby City. He was wielding the ruby dagger which Z felt the staff pull towards. He told us that a second chosen of Ubtao to be converted to Aztoz will be the final step in taking over Chult for Aztoz. He also mentioned that there are Aztozian Rubies being dispersed throughout Port Nyanzaru, which will also help draw in power for the god.
+
