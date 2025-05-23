@@ -32,6 +32,18 @@ Most of the city is populated with mindless undead, but the intelligent ones see
 
 Nidaasi told us of the other guests, who turned out to be the three remaining members of the Lost Expedition. Ootumi, Gardon, and Fenvur. Unfortunately, Thevia was killed in the battle when they were kidnapped.
 
+We discovered a family tree within the Abbey of the Mother. It seems to depict a family of gods.
+![FamilyTree.png|300x474](/img/user/z_Assets/Pasted%20Images/FamilyTree.png)
+
+Nidaasi explained that each symbol represents a member of Aztoz's family
+	Mother (Shawl)
+	Eldest Son of Valor (Sword)
+	Child of Luck (Mask)
+	Aztoz, Son of Bounty (Dagger)
+	Daughter of Rebirth (Tree)
+	Daughter of Fervor (Axe)
+	Child of Affection (Vial)
+
 We were told that every 300 years, a ceremony is done on Highharvesttide to reestablish the power of Aztoz throughout Chult. It requires 3 lively sacrifices. According to Nidaasi, the number 3 is very important and powerful in the Aztozian religion. Additionally, we were told of Itakulo, the prophet and conduit to Aztoz. It was also mentioned that a Ruby Dagger seems to be the powerful relic that Ootumi was after. 
 
 Right now, we are trying to move quickly so that Okhun doesn't show up and blow our cover.
