@@ -76,3 +76,6 @@ The staff's pedestal read *"The champion that earned Ubtao's favor was given a s
 
 When we returned "home" to rest, we were greeted by Itakulo, the prophet of Aztoz and leader of the Ruby City. He was wielding the ruby dagger which Z felt the staff pull towards. He told us that a second chosen of Ubtao to be converted to Aztoz will be the final step in taking over Chult for Aztoz. He also mentioned that there are Aztozian Rubies being dispersed throughout Port Nyanzaru, which will also help draw in power for the god.
 
+## Update: Elient 27th 1528
+
+After cleaning up some "unruly" undead, we discover a campsite that was set up recently. After investigating it for a bit, Azuria discovered someone watching us. It ended up being the mysterious mage that kidnapped Mezoar back in Port Nyanzaru. He seems to have follow us here somehow. And the plot thickens as he introduces himself as Ebon Bearleaf, Duldri's brother, and says that he knows Ronnie!
