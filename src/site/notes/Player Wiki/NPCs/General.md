@@ -58,11 +58,15 @@ Was insulted by Liev and Nico, which caused a fight
 Grand Duke in Baldur's Gate
 Superior of Liara of the Flaming Fist battalion at Fort Beluarian
 
-# Mysterious Mage
+# Ebon Bearleaf (Mysterious Mage)
 
-![MysteryMage.jpg|300](/img/user/z_Assets/Portraits/MysteryMage.jpg)
+![Ebon Bearleaf.jpg|300](/img/user/z_Assets/Portraits/Ebon%20Bearleaf.jpg)
+
 Rogue-like mage with forgettable features who tried to steal the map from Weshtek and eventually kidnapped Mezoar
 Casted sleep, blink, and dimension door
 
 In a confrontation with Z, he said "I don't want anyone else to get hurt. You are getting too close. Just forget about the Ruby City."
 Seems to be magically able to make you forget his face as soon as you look away.
+
+After confronting him in the Ruby City, he introduces himself as Ebon Bearleaf, the brother of [[Player Wiki/NPCs/Fortuitous Pride#Duldri Bearleaf\|Duldri Bearleaf]]
+He seems to know Ronnie, almost friendly
