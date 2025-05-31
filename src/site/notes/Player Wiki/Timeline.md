@@ -12,7 +12,7 @@
 **1502 DR** – The metallic dragons of the Sword Coast establish the Dragon’s Horde, a faction of metallic dragons and followers of Bahamut whose duty is to prevent the rise of another evil draconic deity. They have ambassadors in each major city within the Sword Coast and work closely with the other factions to identify and eradicate potential draconic cults.  
 **1503 DR** – The town New Elturel is founded along the coast of Lake Elturel.  
 **1505 DR** – Silverymoon is considered completely rebuilt and the mythal surrounding the city is recreated, but the Moonbridge is still gone. A physical bridge (Moon’s Rest Crossing) is built in memoriam of those lost in the Siege of Silverymoon.  
-**1508 DR** - There are a series of gruesome unsolved murders within Baldur's Gate. These murders unknowingly stop after 6 months.
+**1508 DR** - There are a series of gruesome unsolved murders within Baldur's Gate. These murders suddenly stop after 6 months.
 **1510 DR** – Dark Dragon’s Peak erupts a second time. The extreme tectonic activity in the area sunders a large portion of the Sunset Mountains. The skies in the region blacken again for another 5 years. The volcano hasn’t erupted since, but it is still considered active.  
 **1528 DR** – Ootumi’s exploration goes missing. Weshtek returns towards the end of Flamerule (Month 7/12)  
 
