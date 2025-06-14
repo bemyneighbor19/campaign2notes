@@ -78,4 +78,23 @@ When we returned "home" to rest, we were greeted by Itakulo, the prophet of Azto
 
 ## Update: Elient 27th 1528
 
-After cleaning up some "unruly" undead, we discover a campsite that was set up recently. After investigating it for a bit, Azuria discovered someone watching us. It ended up being the mysterious mage that kidnapped Mezoar back in Port Nyanzaru. He seems to have follow us here somehow. And the plot thickens as he introduces himself as Ebon Bearleaf, Duldri's brother, and says that he knows Ronnie!
+After cleaning up some "unruly" undead, we discover a campsite that was set up recently. After investigating it for a bit, Azuria discovered someone watching us. It ended up being the mysterious mage that kidnapped Mezoar back in Port Nyanzaru. He seems to have follow us here somehow. And the plot thickens as he introduces himself as Ebon Bearleaf, Duldri's brother, and says that he knows Ronnie! We were able to make an alliance. He tried to explain what had happened with him, Duldri, and Ronnie, but most of it came out as a fuzzy static noise. He told us the names of this ancient family that Aztoz was a part of creating a dichotomy between good and evil in each of their domains.
+	Eldest Son of Valor/Vanquishment (Sword) 
+	Child of Luck/Lies (Mask) 
+	Son of Bounty/Bloodshed (Dagger) 
+	Daughter of Rebirth/Revenge (Tree)
+	Daughter of Fervor/Fury (Axe) 
+	Child of Affection/Affliction (Vial)
+He told us he serves *static*, the Mother of Altruism who was saddened by what her children had become. She wanted them to be stopped before they returned to full power.
+
+We came up with a plan to stop the ritual and escape through a extra powerful teleportation circle, imbued with the magic of the mother, but we needed to get the prisoners and the dagger first.
+
+As we returned back to our "home," we discovered that the process for "preparing" the sacrifices starts 3 days before the ceremony. This involves draining the blood for an entire day, before draining their spirit, and converting it to Aztozence. We met with the sacrifices to discuss an escape plan, and promised to get them out of here.
+
+## Update: Elient 28th 1528
+
+The following day, we followed the sacrifices, Nidaasi and Itakulo up to the top of the Ziggurat where we got to witness the beginnings of the preparation ritual. Nico tried to steal the Dagger of Aztoz right out from under Itakulo's nose only to be discovered. Eventually, Z was able to take the dagger away by force before Altresse turned her invisible. Itakulo was then slain, as were his two priestesses, and their spirits were absorbed into the dagger, as if it were a phylactery. We quickly recovered and awoke Ootumi and her crew as Z and Niar assemble the Spear of Ubtao. Niar forced his golden magic through the spear, causing the spearhead to crack and shatter its ruby shell to reveal its golden interior.
+
+That's when the ziggurat began to collapse. We narrowly escaped the certain death that was chasing us through the city. It seemed the ziggurat was falling into the void, which did not sound fun. The teleportation circle took us back to the altar we entered through, where Sunny was waiting for us. And so was Okhun.
+
+Injured by the fall of Aztoz, Okhun was not too hard to take care of, as his and his two druid companions were absorbed by the Chultan earth. It was in that moment that we turned to see each of the prisoners with knives at their throats. The Fortuitous Pride had come and wanted their prize, the Spear of Ubtao. There was a sudden blast as a shockwave knocked us all off our feet which distracted the Pride long enough for Niar to use his new found power to blast them straight out of Chult to a place unknown.
