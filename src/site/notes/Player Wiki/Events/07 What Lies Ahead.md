@@ -12,7 +12,7 @@ We soon arrived back in Port Nyanzaru, where we had business to attend to.
 
 Here we met with Joval, who we provided a abridged version of the map he requested. We received 450 gold for our hard work, and we seemed to have gained an ally.
 
-Nico went and caught up with Jungle Princess and Vazhul, where they talked about the next dino race and a place for Sunny to stay temporarily. Vazhul entered Nico into the race and with a 100 gold fee, was happy to look after Sunny.
+Nico went and caught up with Jungle Princess and Vazhul, where they talked about the next dino race and a place for Sunny to stay temporarily. Vazhul entered Nico into the race and with a 100 gold fee, was happy to look after Sunny. Additionally, Nico got a second sponsor from none other than Hunkin' Handpies, who hope to make there little shop an international franchise.
 
 Ronnie was able to broker a deal for the large chunk of raw gold, netting us 27750 gold total. We spent 7750 of it betting on our boy to win the race. After a race MUCH closer than the last, Nico narrowly succeeded, netting us an extra 7750 gold, brining our total wealth to 35500 gold, which we split 4 ways. 
 
