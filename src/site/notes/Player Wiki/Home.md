@@ -6,12 +6,12 @@
 
 
 ### Events
-[[Player Wiki/Events/The Vicious Murder on the Vicious Fortune\|The Vicious Murder on the Vicious Fortune]]
-[[Player Wiki/Events/The Ruby City\|The Ruby City]]
-[[Player Wiki/Events/Unchained Dino Race\|Unchained Dino Race]]
-[[Player Wiki/Events/Map Chase and Mezoar's Kidnapping\|Map Chase and Mezoar's Kidnapping]]
-[[Player Wiki/Events/Wild Green Yonder\|Wild Green Yonder]]
-[[Player Wiki/Events/A Broken Heart (of Ubtao)\|A Broken Heart (of Ubtao)]]
+[[Player Wiki/Events/01 The Vicious Murder on the Vicious Fortune\|01 The Vicious Murder on the Vicious Fortune]]
+[[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
+[[Player Wiki/Events/03 Unchained Dino Race\|03 Unchained Dino Race]]
+[[Player Wiki/Events/02 Map Chase and Mezoar's Kidnapping\|02 Map Chase and Mezoar's Kidnapping]]
+[[Player Wiki/Events/04 Wild Green Yonder\|04 Wild Green Yonder]]
+[[Player Wiki/Events/05 A Broken Heart (of Ubtao)\|05 A Broken Heart (of Ubtao)]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
@@ -20,7 +20,7 @@
 [[Player Wiki/NPCs/The Primal Grove\|The Primal Grove]]
 [[Player Wiki/NPCs/The Vicious Fortune\|The Vicious Fortune]]
 [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]]
-[[Player Wiki/Events/The Ruby City\|The Ruby City]]
+[[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
 
 ### Places
 [[Player Wiki/Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
