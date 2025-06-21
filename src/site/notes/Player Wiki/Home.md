@@ -12,6 +12,8 @@
 [[Player Wiki/Events/02 Map Chase and Mezoar's Kidnapping\|02 Map Chase and Mezoar's Kidnapping]]
 [[Player Wiki/Events/04 Wild Green Yonder\|04 Wild Green Yonder]]
 [[Player Wiki/Events/05 A Broken Heart (of Ubtao)\|05 A Broken Heart (of Ubtao)]]
+[[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
+[[Player Wiki/Events/07 What Lies Ahead\|07 What Lies Ahead]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
@@ -20,7 +22,6 @@
 [[Player Wiki/NPCs/The Primal Grove\|The Primal Grove]]
 [[Player Wiki/NPCs/The Vicious Fortune\|The Vicious Fortune]]
 [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]]
-[[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
 
 ### Places
 [[Player Wiki/Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
