@@ -25,3 +25,7 @@ As the week ended, we boarded the Vicious Fortune and set sail back to Baldur's 
 We learned a few things on the Vicous Fortune as we went about our business. Most importantly, it seems that no one outside our group can hear or read the name Aztoz. It comes out like fuzz. This leaves us with even more questions.
 
 Additionally, Ronnie and Z began learning new skill sets, Smithing and Lockpicking respectfully. Nico made some potions, and Altresse finished copying down some spells. After 2 weeks time, we returned to Baldur's Gate, where the chill in the air is a reminder that it is winter now, and we aren't in sweltering jungles of Chult anymore.
+
+
+
+TESTING
