@@ -4,9 +4,6 @@
 
 *This is a collection of notes prepared by the group of Azuria, Nico, Ronnie, Liev'thel and Altresse.*
 
-
-[[Player Wiki/Faerun Map\|Faerun Map]]
-
 ### Events
 [[Player Wiki/Events/01 The Vicious Murder on the Vicious Fortune\|01 The Vicious Murder on the Vicious Fortune]]
 [[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
