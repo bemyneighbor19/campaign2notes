@@ -3,6 +3,9 @@
 ---
 
 
+Here is an interactable map.
+
+
 ```leaflet  
 id: FaerunPlayer### Must be unique with no spaces  
 image: [[Faerun Map.jpg]] ### Link to the map image file  
