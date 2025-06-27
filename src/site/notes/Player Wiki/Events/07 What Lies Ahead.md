@@ -26,6 +26,3 @@ We learned a few things on the Vicous Fortune as we went about our business. Mos
 
 Additionally, Ronnie and Z began learning new skill sets, Smithing and Lockpicking respectfully. Nico made some potions, and Altresse finished copying down some spells. After 2 weeks time, we returned to Baldur's Gate, where the chill in the air is a reminder that it is winter now, and we aren't in sweltering jungles of Chult anymore.
 
-
-
-TESTING
