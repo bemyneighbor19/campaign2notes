@@ -2,6 +2,16 @@
 {"dg-publish":true,"permalink":"/player-wiki/events/08-through-the-cloud-peaks/","noteIcon":""}
 ---
 
+## The Vistani
+On our path towards the Cloud Peaks, we were invited to hang out with these nomads. Z was given a tarokka reading.
+First – history, next – path, third – what drove me, fourth – allies, fifth – future
+	**History**: a card with stars in either corner and an 8 on the opposite corners, candles on either side, and two ghoulish undead on the front and a mastermind controlling them behind, shrouded in shadow – the _Eight of Stars_ – the _Necromancer_ – the _Master of the Unnatural_. I have faced the undead.
+	**Path**: glyphs and 5, an older being that has similar vibes to Nico and an ash tree on the back – the _Five of Glyphs_, the _Druid_, the ambivalence and cruelty of nature and those who feel drawn to it. Inner turmoil for those around me. Be careful.
+	**Drive**: Crown with a mangled, indescribable creature – the _Beast_ – a great passion and rage drove me here, something bestial and malevolent but hiding in plain sight.
+	**Ally**: a man being controlled by strings, face shrouded in darkness as he picks up something – the _Marionette_ – a spy or minion of some greater power, but merely a puppet of a greater purpose
+	**Future**: a picture of a beautiful golden chalice radiating with power – the _Artifact_ – an object that must be obtained and protected in my future
+I am on a twisting path, a dangerous path – stay safe. Sounds like a dismissal, so I walk away with no further questions.
+
 ## Goliath Tribes
 
 After traveling south for a week or so, we made it to the region where the hill goliaths were said to be. Instead of coming across those, we found ourselves face to face with some mountain trolls that nearly crushed us. After handling them, we stumbled upon the hill goliath tribe, called the Mound Clan, where we delivered the news of Thevia's death.
