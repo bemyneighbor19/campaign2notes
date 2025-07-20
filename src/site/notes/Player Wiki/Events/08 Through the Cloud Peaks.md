@@ -17,3 +17,13 @@ She left the Slate clan about 6 years after the first eruption of Dark Dragon's 
 
 We learned that her widower is alive at the Boulder Clan, so we set off to learn more. Thorak was a kind person who welcomed us into his home and shared a meal with us. He told Z that Vaunna knew of the "chosen one" being born but didn't know much more than the history we had gathered. What we did find were a lot of different paintings. The most common subject being painted was a female silhouette surrounded by flames. When asked what they meant, Thorak said that Vaunna used to say, almost like in a trance, "She haunts me. She haunts us all."
 
+## Caught Between Clouds and Crimmor
+
+Once we left the Cloud Peaks, we started our journey to Crimmor. On that path, we came across this "lovely" family who had been attacked by kobolds. They said they were going to Crimmor for the husband's new job. We - Nico and Ronnie mostly- told them all about how we are dead tree hopping to Gambiton and then Orlsfall. We should've seen through their illusions sooner, because of course, it was Fortuitous Pride. 
+
+We got our asses kicked. But not before learning a bit more about these things that are being blocked from our minds. This time it was Iteus, the one associated with masks, and apparently the god that Duldri worships. And Duldri did confirm that he and Ronnie had worked together in the past.
+
+Either way, they said they were going to beat us to our destinations, whether it be both Gambiton and Orlsfall, or just Orlsfall is yet to be seen.
+
+We awoke with all of our gear and items and a new suspicion of groups of three. Altresse is ready to blow their heads up.
+
