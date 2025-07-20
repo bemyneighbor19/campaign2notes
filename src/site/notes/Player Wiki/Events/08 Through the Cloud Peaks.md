@@ -3,14 +3,19 @@
 ---
 
 ## The Vistani
-On our path towards the Cloud Peaks, we were invited to hang out with these nomads. Z was given a tarokka reading.
+On our path towards the Cloud Peaks, we were invited to hang out with these nomads called the Vistani. Z was given a tarokka reading.
 First – history, next – path, third – what drove me, fourth – allies, fifth – future
 	**History**: a card with stars in either corner and an 8 on the opposite corners, candles on either side, and two ghoulish undead on the front and a mastermind controlling them behind, shrouded in shadow – the _Eight of Stars_ – the _Necromancer_ – the _Master of the Unnatural_. She has faced the undead.
 	**Path**: glyphs and 5, an older being that has similar vibes to Nico and an ash tree on the back – the _Five of Glyphs_, the _Druid_, the ambivalence and cruelty of nature and those who feel drawn to it. Inner turmoil for those around me. Be careful.
 	**Drive**: Crown with a mangled, indescribable creature – the _Beast_ – a great passion and rage drove me here, something bestial and malevolent but hiding in plain sight.
 	**Ally**: a man being controlled by strings, face shrouded in darkness as he picks up something – the _Marionette_ – a spy or minion of some greater power, but merely a puppet of a greater purpose
 	**Future**: a picture of a beautiful golden chalice radiating with power – the _Artifact_ – an object that must be obtained and protected in her future
-She is on a twisting path, a dangerous path – stay safe. Sounds like a dismissal, so I walk away with no further questions.
+
+She is on a twisting path, a dangerous path – stay safe.
+
+When we awoke the following morning, they were gone without a trace.
+
+
 
 ## Goliath Tribes
 
