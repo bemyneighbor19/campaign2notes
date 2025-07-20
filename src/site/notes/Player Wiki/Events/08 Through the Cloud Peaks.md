@@ -21,9 +21,14 @@ We learned that her widower is alive at the Boulder Clan, so we set off to learn
 
 Once we left the Cloud Peaks, we started our journey to Crimmor. On that path, we came across this "lovely" family who had been attacked by kobolds. They said they were going to Crimmor for the husband's new job. We - Nico and Ronnie mostly- told them all about how we are dead tree hopping to Gambiton and then Orlsfall. We should've seen through their illusions sooner, because of course, it was Fortuitous Pride. 
 
-We got our asses kicked. But not before learning a bit more about these things that are being blocked from our minds. This time it was Iteus, the one associated with masks, and apparently the god that Duldri worships. And Duldri did confirm that he and Ronnie had worked together in the past.
+We got our asses kicked. But not before learning a bit more about these things that are being blocked from our minds. This time it was Iteus, the one associated with masks or the child of luck and lies, and apparently the god that Duldri worships. And Duldri did confirm that he and Ronnie had worked together in the past.
 
 Either way, they said they were going to beat us to our destinations, whether it be both Gambiton and Orlsfall, or just Orlsfall is yet to be seen.
 
 We awoke with all of our gear and items and a new suspicion of groups of three. Altresse is ready to blow their heads up.
 
+## There is no crime in Crimmor
+
+But there is trade and gossip. We learned of a legendary bard making an Amn Tour. Maybe we will catch him somewhere. 
+
+We also learned from a copy of the Baldur's Gate Gazetteer that the Flaming Fist in the city are using deinonychus mounts as a way to strengthen their force. And with this came a new advisor to the Grand Duke, a man - vampire - named Okhun Orycto. How he is alive, we have no idea. Last we saw he was swallowed by the land of Chult. Many Niar knows something. 
