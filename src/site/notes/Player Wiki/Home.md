@@ -12,6 +12,7 @@
 [[Player Wiki/Events/05 A Broken Heart (of Ubtao)\|05 A Broken Heart (of Ubtao)]]
 [[Player Wiki/Events/06 The Ruby City\|06 The Ruby City]]
 [[Player Wiki/Events/07 What Lies Ahead\|07 What Lies Ahead]]
+[[Player Wiki/Events/08 Through the Cloud Peaks\|08 Through the Cloud Peaks]]
 
 ### NPCs
 [[Player Wiki/NPCs/General\|General]]
@@ -20,6 +21,7 @@
 [[Player Wiki/NPCs/The Primal Grove\|The Primal Grove]]
 [[Player Wiki/NPCs/The Vicious Fortune\|The Vicious Fortune]]
 [[Player Wiki/NPCs/Merchant Princes\|Merchant Princes]]
+[[Player Wiki/NPCs/Nobles of Baldur's Gate\|Nobles of Baldur's Gate]]
 
 ### Places
 [[Player Wiki/Locations/Port Nyanzaru/Port Nyanzaru\|Port Nyanzaru]]
@@ -30,5 +32,7 @@
 [[Player Wiki/Collections/Map of Chult\|Map of Chult]]
 [[Player Wiki/Collections/Chult Fauna and Flora\|Chult Fauna and Flora]]
 [[Player Wiki/Collections/The Ruby Grove\|The Ruby Grove]]
+[[Player Wiki/Collections/The Manor\|The Manor]]
+[[Player Wiki/Collections/The Anguished Ash\|The Anguished Ash]]
 
 

@@ -4,15 +4,6 @@
 
 Some of the people we have met along the way that don't fall into groups just yet.
 
-# Rulf Cromwell
-
-Father of Rosa Cromwell
-Employer of Olgo Stonesworn (bodyguard)
-Owner of Cromwell Zoological Industries and works in animal trading
-Nobility within Baldur's Gate
-
-We heard from Arin that Rulf might have been the person who got Sten "taken care of." Rulf seems to be looking to push for exotic animal trading from Port Nyanzaru and to broker a deal with Ifan, the Merchant Prince that controls such things.
-
 # Sten Morkez
 
 Chultan "expert" from Candlekeep
@@ -53,10 +44,6 @@ Reports to Grand Duke Vacien Erascar
 Refused to give up the Tooth of Ubtao
 Was insulted by Liev and Nico, which caused a fight
 
-# Vacien Erascar
-
-Grand Duke in Baldur's Gate
-Superior of Liara of the Flaming Fist battalion at Fort Beluarian
 
 # Ebon Bearleaf (Mysterious Mage)
 
