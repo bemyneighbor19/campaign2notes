@@ -15,8 +15,6 @@ She is on a twisting path, a dangerous path – stay safe.
 
 When we awoke the following morning, they were gone without a trace.
 
-
-
 ## Goliath Tribes
 
 After traveling south for a week or so, we made it to the region where the hill goliaths were said to be. Instead of coming across those, we found ourselves face to face with some mountain trolls that nearly crushed us. After handling them, we stumbled upon the hill goliath tribe, called the Mound Clan, where we delivered the news of Thevia's death.
